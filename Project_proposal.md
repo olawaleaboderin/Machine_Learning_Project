@@ -9,7 +9,6 @@
 | Name | Student ID |
 |------|------------|
 | Olawale Serifdeen Aboderin | 29206 |
-| Bridget Gorume | 29203 |
 | Francis Chinaecherem Uzor | 29260 |
 
 ---
