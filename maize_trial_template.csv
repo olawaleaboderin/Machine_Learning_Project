@@ -1,0 +1,4 @@
+YEAR,region,agro_ecological_zone,season,environment_condition,latitude,longitude,elevation,rainfall_mm,mean_temperature,soil_pH,soil_N_content,soil_P_content,soil_K_content,Name,Pedigree,breeding_institution,maturity_group,rep,days_to_anthesis,Days_to_silking,anthesis_silking_interval,plant_height,ear_height,husk_cover,plant_aspect,ear_per_plant,ear_aspect,grain_moisture,grain_yield,staygreen
+2024,LocationA,Southern Guinea Savanna,rainy,Drought,8.5,4.5,350,900,26.5,6.2,0.12,10,130,MyVariety-01,ParentA x ParentB,IAR,Early,1,62,65,3,190,95,2.5,2.5,0.95,2.5,13.5,2200,3.0
+2024,LocationA,Southern Guinea Savanna,rainy,Optimum,8.5,4.5,350,900,26.5,6.2,0.12,10,130,MyVariety-01,ParentA x ParentB,IAR,Early,1,58,60,2,195,100,2.0,2.0,1.0,2.0,12.0,3800,2.0
+2024,LocationB,Northern Guinea Savanna,Dry,Low-N,11.0,7.7,610,700,25.0,6.8,0.09,8,110,MyVariety-02,ParentC x ParentD,Unilorin,Intermediate,1,65,68,3,205,110,3.0,3.0,0.9,3.0,14.0,1800,4.0
