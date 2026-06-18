@@ -3,14 +3,6 @@
 Machine Learning for Genotype × Environment Interactions
 in Nigerian Maize Breeding Programs
 ====================================================================
-
-HOW TO RUN:
-    pip install streamlit pandas numpy scikit-learn xgboost matplotlib
-                seaborn folium streamlit-folium plotly
-    streamlit run app.py
-
-NOTE: Place maize_clean.csv in the same folder as this file.
-====================================================================
 """
 
 import streamlit as st
